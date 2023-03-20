@@ -1,2 +1,2 @@
 ﻿# c_plus : welcome c++
- selamat datang
+ #selamat datang
